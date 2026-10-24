@@ -23,3 +23,8 @@ Don’t leave the vault password somewhere your child can find it, and don’t r
 While the folder is unlocked, it’s a normal folder again. Lock it when you start studying.
 Everything is loaded into memory while locking, so it suits study files but not folders of many gigabytes.
 Deleted original files can sometimes be recovered with special software on a regular hard drive. For ordinary parental privacy this is fine.
+
+# License
+Study Vault is proprietary software.
+You may view, download, and use this software for personal and educational purposes only.
+Modification, redistribution, and resale are prohibited without explicit permission from the author.
